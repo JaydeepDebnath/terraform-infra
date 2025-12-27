@@ -13,5 +13,13 @@ This repository contains a **production-ready Terraform Infrastructure as Code (
 - CI-based validation and plan approval
 - Remote backend with state locking
 
+## 🔐 Security Practices
+
+- Private subnets for EKS and RDS
+- Least-privilege IAM roles
+- No hardcoded secrets
+- Terraform remote state encryption
+- Environment-level isolation
+
 
 ![Architecture](docs/architecture.png)
