@@ -12,3 +12,6 @@ This repository contains a **production-ready Terraform Infrastructure as Code (
 - Cost-aware cloud design
 - CI-based validation and plan approval
 - Remote backend with state locking
+
+
+![Architecture](docs/architecture.png)
